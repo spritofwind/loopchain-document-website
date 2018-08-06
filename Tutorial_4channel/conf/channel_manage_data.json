@@ -1,0 +1,26 @@
+{
+  "channel1": {
+      "score_package": "spritofwind/contract_sample",
+      "peers": [
+        {"peer_target":"172.17.0.4:7100"}
+      ]
+  },
+  "channel2": {
+      "score_package": "spritofwind/contract_sample2",
+      "peers": [
+        {"peer_target":"172.17.0.5:7200"}
+      ]
+  },
+  "channel3": {
+      "score_package": "spritofwind/icx_prototype",
+      "peers": [
+        {"peer_target":"172.17.0.6:7300"}
+      ]
+  },
+  "channel4": {
+      "score_package": "spritofwind/loopchain_quick_start_sample_app01",
+      "peers": [
+        {"peer_target":"172.17.0.7:7400"}
+      ]
+  }
+}

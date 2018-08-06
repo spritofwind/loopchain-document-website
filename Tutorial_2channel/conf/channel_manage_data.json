@@ -1,0 +1,14 @@
+{
+  "channel1": {
+      "score_package": "loopchain/default",
+      "peers": [
+        {"peer_target":"172.17.0.4:7100"}
+      ]
+  },
+  "channel2": {
+      "score_package": "loopchain/default",
+      "peers": [
+        {"peer_target":"172.17.0.5:7200"}
+      ]
+  }
+}

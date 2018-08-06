@@ -1,0 +1,4 @@
+{
+"CHANNEL_MANAGE_DATA_PATH": "/conf/channel_manage_data.json",
+"ENABLE_CHANNEL_AUTH": true
+}
